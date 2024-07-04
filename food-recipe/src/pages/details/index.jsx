@@ -1,5 +1,3 @@
-
-export default function details() {
-    return <div>detail</div>;
-  }
-  
+export default function Details() {
+  return <div>detail</div>;
+}
